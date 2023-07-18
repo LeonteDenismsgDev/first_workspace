@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 wowo another feature
+=======
+new feature wow
+>>>>>>> dabd8ad
